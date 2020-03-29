@@ -22,7 +22,7 @@ h1 .text-primary {
 
 .bg-primary {
 	background-color: #A9A9A9!important;
-	background-image: url("css/cardboard-flat.png");
+	background-image: radial-gradient(#696969,#808080,#D3D3D3);
 }
 
 .text-primary {
